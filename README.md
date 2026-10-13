@@ -2,7 +2,7 @@
 
 A small React + Vite app: move items between two boxes using the arrow buttons.
 
-**Live demo:** https://YOUR-USERNAME.github.io/two-boxes/
+**Live demo:** https://piyush1shende2.github.io/two-boxes/
 
 ## Run locally
 
